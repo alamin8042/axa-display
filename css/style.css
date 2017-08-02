@@ -1,0 +1,150 @@
+body{background: #ded7d7;}
+img{}
+section{
+    
+background: burlywood;
+    
+margin: 0 auto;
+}
+
+.nab-pills{
+   
+    background: transparent;
+    padding: 0;
+    border-radius: 4px;
+}
+
+.nav>li>a {
+    
+}
+
+.btn-custom{
+    height: 50px;
+    width: 200px;
+    background-color: blue;
+    color: white;
+    border-radius: 4px;
+    font-size: 18px;
+    border: transparent;
+    float: right;
+}
+
+
+.top-header-section{
+    background-image: url(../images/header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+    position: relative;
+}
+.content{
+    position: absolute;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+.quote{
+
+  height: 40px;
+    width: 180px;
+    background-color: blue;
+    color: white;
+    border-radius: 4px;
+    font-size: 15px;
+    border: transparent;
+text-align: center;
+}
+
+.trip-ins{
+
+background: #d3e1ec;
+
+width: 100%;
+}
+
+.col-content{
+
+}
+
+.col-content p{text-align: center;padding-top: 25px;padding-bottom: 25px;font-weight: 600;}
+
+.col-content h3{
+    
+text-align: center;
+    
+padding-top: 20px;
+    
+padding-bottom: 20px;
+}
+
+.features{
+
+text-align: center;
+}
+
+.assistance{
+
+background: #fff;
+
+text-align: center;
+}
+
+.assistance h2{
+
+padding-top: 25px;
+
+padding-bottom: 25px;
+
+margin: 0;
+}
+
+.tri-btn{
+    
+text-align: center;
+    
+padding-bottom: 20px;
+    
+padding-top: 20px;
+}
+
+.carefree{
+
+text-align: center;
+
+text-transform: uppercase;
+
+padding-top: 20px;
+
+padding-bottom: 20px;
+
+background-image: url(../images/content-banner.jpg);
+
+background-size: cover;
+
+background-repeat: no-repeat;
+
+min-height: 300px;
+}
+
+.carefree h3{
+    
+padding: 0;
+}
+
+.bottom-top{
+    
+text-align: center;
+    
+padding-top: 25px;
+    
+padding-bottom: 25px;
+    
+background: #f1f1f1;
+}
+
+.footer-end p{
+
+text-align: center;
+}
